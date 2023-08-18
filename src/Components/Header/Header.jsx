@@ -21,7 +21,7 @@ export default function Header() {
 
                 <div className={style.service}>
                     <a href={'#'}>Services</a>
-                    <a href={'#'}>Check all</a>
+                    <a href={'#'}>Check nigga all</a>
                 </div>
 
                 <div className={style.category}>
