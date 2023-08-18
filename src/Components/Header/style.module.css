@@ -1,0 +1,30 @@
+.container {
+    @apply w-full h-auto fixed z-10 flex flex-row items-center justify-start bg-black p-1 border border-white/60 rounded-full text-[#FFFFFF]
+}
+.home {
+    @apply w-[35%] h-auto flex flex-row items-center justify-start
+}
+.backspace {
+    @apply w-auto h-auto p-1 flex border border-white/60 rounded-full
+}
+.backspace svg {
+    @apply w-7 h-7
+}
+.homepage {
+    @apply w-full h-auto ml-1 p-1 px-3 flex border border-white/60 rounded-full
+}
+.service {
+    @apply w-[22%] h-auto flex flex-row items-center justify-between p-1 border border-white/60 rounded-full ml-1 p-1 px-3
+}
+.category {
+    @apply w-[37%] h-auto flex flex-row items-center justify-between p-1 border border-white/60 rounded-full ml-1 p-1 px-3
+}
+.sociallinks {
+    @apply w-auto h-auto flex flex-row items-center justify-start
+}
+.sociallinks a {
+    @apply border border-white/60 rounded-full p-1
+}
+.sociallinks svg {
+    @apply w-7 h-7
+}
