@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reakt/static/css/main.ec8a0fa5.css",
+    "main.js": "/reakt/static/js/main.0175b7d8.js",
+    "static/js/787.06e4656b.chunk.js": "/reakt/static/js/787.06e4656b.chunk.js",
+    "static/media/logo.svg": "/reakt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reakt/index.html",
+    "main.ec8a0fa5.css.map": "/reakt/static/css/main.ec8a0fa5.css.map",
+    "main.0175b7d8.js.map": "/reakt/static/js/main.0175b7d8.js.map",
+    "787.06e4656b.chunk.js.map": "/reakt/static/js/787.06e4656b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8a0fa5.css",
+    "static/js/main.0175b7d8.js"
+  ]
+}
